@@ -1,5 +1,5 @@
 [package]
-name = "memento_mori"
+name = "mimas"
 version = "0.1.0"
 edition = "2021"
 
@@ -7,4 +7,4 @@ edition = "2021"
 
 [dependencies]
 libc = "0.2.150"
-errno = "0.3.6"
+errno = "*"
